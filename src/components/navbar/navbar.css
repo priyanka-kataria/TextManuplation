@@ -1,0 +1,32 @@
+.spotify-nav {
+    display: flex;
+    align-items: center;
+    justify-items: center;
+    background-color: black;
+    color: white;
+    height: 50px;
+}
+.spotify-nav li a{
+    margin: 0px 20px;
+    text-decoration: none;
+    color: wheat;
+    
+}
+.spotify-nav li{
+    text-decoration: none;
+    list-style: none;
+}
+
+.img-text{
+    display: flex;
+    justify-self: center;
+    align-items: center;
+    font-size: 1.2rem;
+    color: white;
+}
+
+
+.brand {
+    margin-top: 5px;
+    height: 5vh;
+}
